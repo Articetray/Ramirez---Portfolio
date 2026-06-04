@@ -12,10 +12,6 @@ Throughout my academic journey, I have developed knowledge and hands-on experien
 
 I am particularly interested in **system analysis, database management, web development, and academic research**, and I aspire to contribute to innovative and technology-driven environments where I can continuously learn, grow, and make meaningful contributions.
 
-## 🎓 Education
-
-**Bachelor of Science in Information Systems**
-Davao del Norte State College
 
 ## 🚀 Projects
 
@@ -36,7 +32,6 @@ A system developed as the final project for **IS112 – Computer Programming 2**
 * Database Management
 * Problem Analysis
 * Network Configuration
-* Time Management
 * Research and Documentation
 
 ## 🎯 Interests
