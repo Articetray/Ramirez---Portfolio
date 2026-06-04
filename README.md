@@ -53,6 +53,4 @@ A system developed as the final project for **IS112 – Computer Programming 2**
 
 ---
 
-*"Continuous learning, innovation, and dedication are the foundations of my journey in the field of Information Technology."*
-
-This version is ready to use as your GitHub profile README and follows the same style as the sample you provided.
+"Continuous learning, innovation, and dedication are the foundations of my journey in the field of Information Technology."
